@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 movie_list = []
-no = int(input('Enter no. of movies you want to compare: '))
+no = int(input('Enter number of movies you want to compare: '))
 for i in range(no):
     movie_list.append(input('Enter movie '+str(i+1)+': '))
     print ()
