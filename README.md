@@ -1,1 +1,1 @@
-IMDB web-crawler for comparing movies and series using BeautifulSoup.
+IMDB web-scraper for comparing movies and series using BeautifulSoup.
